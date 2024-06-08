@@ -3,6 +3,3 @@
 ![Statistics](https://github-readme-stats.vercel.app/api?username=ashduino101&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashduino101&show_icons=true&layout=compact)
-
-```math
-\ce{$\unicode[pointer-events: none; z-index: -10; position: fixed; top: 0px; left: 0; width: 100vw; height: 130vh; object-fit: cover; background-size: cover; background: linear-gradient(#fff, #ff9a19, #f90080);]{x0000}$}
