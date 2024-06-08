@@ -5,4 +5,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashduino101&show_icons=true&layout=compact)
 
 ```math
-\ce{$\unicode[position: fixed; top: 0px; left: 0; width: 100vw; height: 130vh; object-fit: cover; background-size: cover; background-color: #ff00ff;]{x0000}$}
+\ce{$\unicode[pointer-events: none; z-index: -10; position: fixed; top: 0px; left: 0; width: 100vw; height: 130vh; object-fit: cover; background-size: cover; background-color: #ff00ff;]{x0000}$}
